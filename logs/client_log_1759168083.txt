@@ -1,0 +1,9 @@
+Conexão iniciada: Mon Sep 29 14:48:03 2025
+Conexão encerrada: Mon Sep 29 15:29:59 2025
+Bytes enviados: 1258291389
+Bytes recebidos: 150
+Duração (s): 2516.665680
+Taxa aproximada (bytes/s): 499983.59
+
+
+-- fim do log --
